@@ -1,5 +1,5 @@
 
-LIVE PRIJECT LINK: https://eager-hamilton-724cee.netlify.app/
+LIVE PROJECT LINK: https://eager-hamilton-724cee.netlify.app/
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
